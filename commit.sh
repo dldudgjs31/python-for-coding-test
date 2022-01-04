@@ -16,8 +16,8 @@ cd /root/silk/python-for-coding-test/
 eval $(ssh-agent -s)
 
 ssh-add ~/.ssh/lee
-
-/root/bin/git commit -am "(코테문제풀이) $1" 
+read -p "commit message : " message
+/root/bin/git commit -am "(코테문제풀이) $message" 
 
 /root/bin/git push --set-upstream origin main
 
