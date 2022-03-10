@@ -17,6 +17,11 @@
 #### [최소 최대 교환](https://github.com/dldudgjs31/python-for-coding-test/blob/main/sort/sort_exchange.py)
 
 
+## 백준
+### 기초다지기
+2751, 11650, 11651, 10814, 10825, 10989, 11652, 11004, 10828, 9012, 10799
+
+
 ## leetcode 실전 풀이 
 #### [two_sum](https://github.com/dldudgjs31/python-for-coding-test/blob/main/leetcode/1.two%20sum_leetcode.py)
 #### [Longest Substring Without Repeating Characters](https://github.com/dldudgjs31/python-for-coding-test/blob/main/leetcode/3.Longest%20Substring_leetcode.py)
